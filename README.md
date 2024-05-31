@@ -8,5 +8,5 @@ wget https://raw.githubusercontent.com/jinqians/GCP-IP-CHEACKER/main/gcp_checker
 
 ## 定时执行
 ```shell
-*/5 * * * * /bin/bash/ <空格> /your path/cf_ddns.sh
+*/5 * * * * /bin/bash/ <空格> /{your path}/gcp_checker.sh
 ```
