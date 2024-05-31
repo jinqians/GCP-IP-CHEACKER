@@ -1,4 +1,4 @@
-# GCP-IP-CHEACKER
+# GCP-IP-CHEACKER(测试中，未完成)
 自动检测IP是否被ban，通过gcloud SDK自动更换Google Cloud  IP地址
 
 ## 基本下载
